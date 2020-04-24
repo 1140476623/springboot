@@ -1,0 +1,9 @@
+springboot集成
+集成redis
+mybatis(分页、代码自动生成)
+定时任务
+日志管理
+模板集成（freemarker、thymeleaf、jsp）
+异常统一处理
+线程池
+Druid监控
